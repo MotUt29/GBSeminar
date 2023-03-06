@@ -1,16 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-// 134431
-bool isPalindrom(int number)
+﻿// Напишите программу, которая принимает на вход число (А) и выдает сумму чиселот 1 до А
+//Получие суммы чисел в диапазоне
+int GetSumRange(int startNumber, int endNumber);
 {
-    int revNumber = 0;
-    int soursNumber = number;
-
-    while (soursNumber != 0)
+    int sum = 0;
+    for (int i = startNumber; i <= endnumber; i++)
     {
-        int pop = soursNumber % 10;
-        soursNumber = soursNumber / 10;
-        revNumber = (revNumber * 10) + pop;
+        sum = sum +1;
     }
-    bool isResult = revNumber == number;
-    return isResult;
+
+    return sum;
 }
+
+// Запрос исходного числа от пользователя
+Console.Write("Ввдите число А: ");
+int a = int.Parse(Console.ReadLine());
+
+int sum = GetSumRange(1,a);
+Console.WriteLine(sum);
