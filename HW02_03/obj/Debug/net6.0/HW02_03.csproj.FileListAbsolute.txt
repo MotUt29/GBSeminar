@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\Seminars\HW02_03\bin\Debug\net6.0\HW02_03.exe
+C:\Users\User\Desktop\С#\Seminars\HW02_03\bin\Debug\net6.0\HW02_03.deps.json
+C:\Users\User\Desktop\С#\Seminars\HW02_03\bin\Debug\net6.0\HW02_03.runtimeconfig.json
+C:\Users\User\Desktop\С#\Seminars\HW02_03\bin\Debug\net6.0\HW02_03.dll
+C:\Users\User\Desktop\С#\Seminars\HW02_03\bin\Debug\net6.0\HW02_03.pdb
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.dll
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\refint\HW02_03.dll
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.pdb
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\HW02_03.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\Seminars\HW02_03\obj\Debug\net6.0\ref\HW02_03.dll
