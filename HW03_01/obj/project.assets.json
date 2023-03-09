@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\С#\\Seminars\\Seminar03_01\\Seminar03_01.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\С#\\Seminars\\HW03_01\\Seminar03_01.csproj",
       "projectName": "Seminar03_01",
-      "projectPath": "C:\\Users\\User\\Desktop\\С#\\Seminars\\Seminar03_01\\Seminar03_01.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\С#\\Seminars\\HW03_01\\Seminar03_01.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\С#\\Seminars\\Seminar03_01\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\С#\\Seminars\\HW03_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
