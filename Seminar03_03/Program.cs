@@ -12,7 +12,7 @@ int GetMultipliction(int num)
 }
 
 Console.Write("Ввудеите число: ");
-int num = int.Parse(Console.ReadLine);
+int num = int.Parse(Console.ReadLine());
 
 int countNum = GetMultipliction(num);
 Console.WriteLine(countNum);
