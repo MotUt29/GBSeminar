@@ -1,9 +1,9 @@
-﻿// Напишите программу, которая принимает на вход число (А) и выдает сумму чиселот 1 до А
+﻿// Напишите программу, которая принимает на вход число (А) и выдает сумму чисел от 1 до А
 //Получие суммы чисел в диапазоне
-int GetSumRange(int startNumber, int endNumber);
+int GetSumRange(int startNumber, int endNumber)
 {
     int sum = 0;
-    for (int i = startNumber; i <= endnumber; i++)
+    for (int i = startNumber; i <= endNumber; i++)
     {
         sum = sum +1;
     }
